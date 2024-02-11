@@ -1,0 +1,14 @@
+/*
+ * @Author: AJ Javadi 
+ * @Email: amirjavadi25@gmail.com
+ * @Date: 2024-02-11 15:16:21 
+ * @Last Modified by: AJ Javadi
+ * @Last Modified time: 2024-02-11 15:17:07
+ * @Description: file:///Users/aj/sandbox/big-ben-v2/misc/notes.txt
+ */
+
+
+- Big Ben v2 Redux (with couponJS this time, also integrated with Stripe)
+- use Tailwind or Bulma for the front-end
+- still using MERN
+
